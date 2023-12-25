@@ -1,0 +1,140 @@
+.menu ul {
+    text-align: center;
+}
+
+
+
+.menu ul li a {
+    margin-right: 10px;
+    text-decoration: underline;
+    font-size: 30px;
+    color: rgb(46, 40, 34);
+}
+
+.menu ul li a:hover {
+    text-decoration: underline;
+    font-size: 30px;
+    color: rgb(170, 68, 68);
+}
+
+
+.toggler {
+    width: 500px;
+    height: 200px;
+    position: relative;
+}
+
+#button {
+    padding: .5em 1em;
+    text-decoration: none;
+}
+
+#effect {
+    width: 240px;
+    padding: 1em;
+    border: 1px solid #000;
+    background: #eee;
+    color: #333;
+}
+
+.newClass {
+    text-indent: 40px;
+    letter-spacing: .4em;
+    width: 410px;
+    height: 200px;
+    padding: 30px;
+    margin: 10px 10px 30px;
+    background-color: #e2af75;
+
+    font-size: 1.1em;
+}
+
+
+.toggler {
+    margin-bottom: 10px;
+    width: 500px;
+    height: 200px;
+    position: relative;
+}
+
+
+#buttonAnim {
+    padding: .5em 1em;
+    text-decoration: none;
+}
+
+#effectAnim {
+    margin-bottom: 10px;
+    width: 240px;
+    height: 200px;
+    padding: 0.4em;
+    position: relative;
+    background: #e7a1a1;
+}
+
+#effectAnim h3 {
+    margin: 0;
+    padding: 0.4em;
+    text-align: center;
+}
+
+.toggler {
+    width: 500px;
+    height: 200px;
+}
+
+#buttonToggle {
+    padding: .5em 1em;
+    text-decoration: none;
+}
+
+#effectToggle {
+    position: relative;
+    width: 250px;
+    background: #ffc1c1;
+    height: 200px;
+    padding: 0.4em;
+}
+
+#effectToggle h3 {
+    margin: 0;
+    padding: 0.4em;
+    text-align: center;
+    background: #d58181;
+}
+
+/* Effects Demo */
+.togglerDemo {
+    width: 500px;
+    height: 200px;
+    position: relative;
+}
+
+#buttonDemo {
+    padding: 0.5em 1em;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+#effectDemo {
+    width: 250px;
+    height: 200px;
+    /* margin-bottom: 10px; */
+    background: #a4a4a4;
+    padding: 0.4em;
+    position: relative;
+}
+
+#effectDemo h3 {
+    margin: 0;
+    padding: 0.4em;
+    background: #818181;
+    text-align: center;
+}
+
+.ui-effects-transfer {
+    border: 2px dotted gray;
+}
+
+
+
